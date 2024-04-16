@@ -28,7 +28,7 @@ app.get("/", (c) => {
               <textarea
                 id="message-input"
                 className="flex-grow m-2 p-2 border border-chat-border rounded shadow-sm placeholder-chat-placeholder"
-                placeholder="Type a message..."
+                placeholder="Type a message dude..."
               ></textarea>
               <button
                 type="submit"
